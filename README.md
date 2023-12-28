@@ -1,4 +1,4 @@
-README.md
+
 Projeto de Instanciação e Associação em Java
 Este projeto em Java demonstra uma atividade simples de instanciar um trabalhador e estabelecer associações e composições entre classes, como contratos por hora e departamento.
 
